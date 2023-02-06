@@ -1,5 +1,5 @@
 # VERIFICAR-RODOVIAS-FRONTEND
- Verifica rodovias conforme tweets das arteris.
+ Verifica rodovias conforme tweets das Arteris. 
 
 
 [![asciicast](https://i.imgur.com/fam2Ylf.jpg)](https://i.imgur.com/C8Lpslq.mp4)
