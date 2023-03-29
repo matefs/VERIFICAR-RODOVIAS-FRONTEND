@@ -1,7 +1,6 @@
 # VERIFICAR-RODOVIAS-FRONTEND
  Aplicação para monitorar rodovias conforme tweets gerenciados pela empresa [Arteris](https://twitter.com/arteris_oficial). O projeto utiliza React com axios no front end e node.js com express no backend.
 
-
 [![asciicast](https://i.imgur.com/fam2Ylf.jpg)](https://i.imgur.com/C8Lpslq.mp4)
 
 ## Acesse a aplicação aqui:
