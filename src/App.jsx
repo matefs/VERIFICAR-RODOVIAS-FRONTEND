@@ -1,7 +1,8 @@
 import { useState, useEffect  } from 'react'
 import axios from 'axios'
 import './index.css'
- 
+import CarregandoGif from './assets/carregando.gif';
+
 
 // var urlDaApi = 'http://localhost:3001/teste'
  //var urlDaApi = 'https://alert-hallowed-art.glitch.me/pegaTweetsGuardado'
@@ -63,7 +64,9 @@ function App() {
         <div className='col-sm'>
         <h2>Todos os informativos</h2>
              <ul>
-                { respostaApi.length == 0 ? "Carregando..." : '' }
+            { respostaApi.length == 0 ? 
+            <img src={CarregandoGif} alt="Imagem carregando" style={{marginLeft: '100px'}}/> : '' }
+
                 { respostaApi.map(item =>  (
                  
                  <div style={{backgroundColor: 'rgba(255,255,255,.02)', borderRadius: '10px'}}>
