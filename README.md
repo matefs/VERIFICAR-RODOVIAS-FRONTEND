@@ -4,7 +4,7 @@
 [![asciicast](https://i.imgur.com/fam2Ylf.jpg)](https://i.imgur.com/C8Lpslq.mp4)
 
 ## Acesse a aplicação aqui:
-https://velvety-praline-902a52.netlify.app/
+https://clever-druid-607479.netlify.app/
 
 
 ## O que é Arteris ? 
