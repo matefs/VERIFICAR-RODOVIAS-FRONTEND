@@ -3,6 +3,10 @@
 
 [![asciicast](https://i.imgur.com/fam2Ylf.jpg)](https://i.imgur.com/C8Lpslq.mp4)
 
+- <a href="https://www.youtube.com/watch?v=AZT6dcrStYU">Vídeo de explicação </a>
+
+
+
 ## Acesse a aplicação aqui:
 https://clever-druid-607479.netlify.app/
 
