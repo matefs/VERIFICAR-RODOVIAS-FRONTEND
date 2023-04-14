@@ -15,7 +15,18 @@ function App() {
   const [urlDaApi , setUrlDaApi] = useState('https://alert-hallowed-art.glitch.me/pegaTweetsGuardado')
 
 
- 
+
+const  ImagemCarregando = () => {
+  return (
+  < >
+    <div style={{  display: "flex", 
+  justifyContent: "center",  alignItems: "center", width:'100%', position: 'fixed', marginTop: '200px'}}> 
+      <img src={CarregandoGif} alt="Imagem carregando" />
+    </div>
+  </>
+  ) 
+}
+
 
 
   async function CarregaDados() {
@@ -59,13 +70,16 @@ function App() {
     </div>
 
 
+          { respostaApi.length == 0 ?  <ImagemCarregando /> : '' }
+
+
       <div className='row' >
         
         <div className='col-sm'>
         <h2>Todos os informativos</h2>
+
              <ul>
-            { respostaApi.length == 0 ? 
-            <img src={CarregandoGif} alt="Imagem carregando" style={{marginLeft: '100px'}}/> : '' }
+
 
                 { respostaApi.map(item =>  (
                  
@@ -90,6 +104,8 @@ function App() {
                 )) } 
             </ul>
         </div>
+
+
 
 
         <div  className='col-sm'>
