@@ -7,7 +7,7 @@ A aplicação é capaz de exibir os tweets mais relevantes, facilitando a visual
 
 [![asciicast](https://i.imgur.com/fam2Ylf.jpg)](https://i.imgur.com/C8Lpslq.mp4)
 
-- <a href="https://www.youtube.com/watch?v=AZT6dcrStYU">Vídeo de explicação </a>
+- <a href="https://www.youtube.com/watch?v=AZT6dcrStYU">Vídeo ilustrativo </a>
 
 
 ## Acesse a aplicação aqui:
