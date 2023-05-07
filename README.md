@@ -28,4 +28,4 @@ A Arteris é uma das maiores companhias do setor de concessão de rodovias do Br
 
 ### Links importantes: 
 - https://twitter.com/arteris_oficial  - Tweeter oficial da empresa Arteris 
-- https://alert-hallowed-art.glitch.me/pegaTweetsGuardado  - Api criada para procurar os tweets (hospedada na plataforma glitch) 
+- https://alert-hallowed-art.glitch.me/pegaTweetsGuardado  - Api de backend criada para procurar os tweets (hospedada na plataforma glitch) 
