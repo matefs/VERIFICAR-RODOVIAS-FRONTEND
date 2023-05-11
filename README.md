@@ -4,7 +4,6 @@ Este projeto consiste em uma aplicação que busca e exibe os últimos tweets da
 
 A aplicação é capaz de exibir os tweets mais relevantes, facilitando a visualização de informações importantes para quem precisa se deslocar pelas rodovias monitoradas pela empresa.
 
-
 [![asciicast](https://i.imgur.com/fam2Ylf.jpg)](https://i.imgur.com/C8Lpslq.mp4)
 
 - <a href="https://www.youtube.com/watch?v=AZT6dcrStYU">Vídeo ilustrativo </a>
